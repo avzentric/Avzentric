@@ -8,7 +8,7 @@ export default function Hero() {
             <img
               src='avzentriclogo.jpeg'
               alt="Avzentric"
-              className="w-7 h-7 md:w-9 md:h-9"
+              className="w-9 h-7 md:w-13 md:h-9"
             />
 
             <span className="text-xs sm:text-sm md:text-base text-secondary-foreground">

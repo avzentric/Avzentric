@@ -16,7 +16,7 @@ export default function Navbar() {
               <img
                 src='/avzentriclogo.jpeg'
                 alt="Avzentric"
-                className="h-9 w-9 sm:h-20 sm:w-27"
+                className="h-12 w-17 sm:h-17 sm:w-24"
               />
             </Link>
           </div>

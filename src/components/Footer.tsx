@@ -40,7 +40,7 @@ export default function Footer() {
 
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 mt-1 shrink-0" />
-                <span>vizolohe@avzentric.com</span>
+                <span>avzentric@gmail.com</span>
               </li>
 
               <li className="flex items-start gap-3">
@@ -58,12 +58,6 @@ export default function Footer() {
               Follow Us
             </h4>
             <div className="flex gap-4">
-              <a
-                href="https://www.linkedin.com/in/avzentric-undefined-174876430"
-                className="w-11 h-11 md:w-12 md:h-12 bg-secondary rounded-lg flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors"
-              >
-                <FaLinkedinIn className="w-5 h-5" />
-              </a>
               <a
                 href="https://x.com/Avzentric"
                 className="w-11 h-11 md:w-12 md:h-12 bg-secondary rounded-lg flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors"
